@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "prcbench"]
+	path = prcbench
+	url = https://github.com/evalclass/prcbench
+	shallow = true
+	registered = true
+[submodule "precrec"]
+	path = precrec
+	url = https://github.com/evalclass/precrec
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "prcbench",
+    "oncran": true
+  },
+  {
+    "package": "precrec",
+    "oncran": true
+  }
+]
